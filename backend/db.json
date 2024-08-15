@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio:]",
+      "autoria": "Dev CycleWs",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudo de Angular :)",
+      "autoria": "Dev CycleWs",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é O.o",
+      "autoria": "Dev CycleWs",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Literalmente não estava funcionando porque eu esqueci de um simples parentese!",
+      "autoria": "CycleWs",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Testando pensamento",
+      "autoria": "As vozes dnv",
+      "modelo": "modelo1",
+      "id": 5
+    }
+  ]
+}
